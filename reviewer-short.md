@@ -1,6 +1,4 @@
-# A Guide to Paper Reviewing for NIME (Condensed)
-
-This is the abridged version of the larger [Guide to Paper Reviewing for NIME](https://docs.google.com/document/d/1kv4i4v58nnapLwXbZI9jkv3g_4u5Y1Q9Bl8r-HXUH-k/edit?usp=sharing). 
+# A Guide to Paper Reviewing for NIME
 
 ## The most important question
 
