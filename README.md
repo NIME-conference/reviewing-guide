@@ -1,6 +1,6 @@
 # NIME Conference Reviewing Guides
 
-This repository contains the condensed and comprehensive guides for reviewers and meta-reviewers of the NIME conference.
+This repository contains guides for reviewers and meta-reviewers of the NIME conference.
 
 ## About NIME and its values
 
@@ -24,8 +24,7 @@ We strive to have three reviewers for every submission in order to offer authors
 
 - [Ken Hinckly - On Excellence in Reviews and Meta Reviews and Championing Submitted Work That Has Merit](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Excellence-in-Reviews-MobileHCI-2015-Web-Site.pdf)
 - [Unofficial Guide to Reviewing for SIGCHI](https://docs.google.com/document/d/1MpH3zV8WFU5avQHqrVTtxu-wNWzeTstxWy7K__HK5Nc/edit?tab=t.0#heading=h.mq8hia60enm8)
-
-
+- [Jeffrey Bardzell: A Position on Peer Reviewing in HCI](https://interactionculture.net/2012/01/28/a-position-on-peer-reviewing-in-hci-part-2/)
 
 ## Authors and Acknowledgements
 
