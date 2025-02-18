@@ -20,6 +20,12 @@ Every reviewer is important, because it’s through a plurality of voices, persp
 
 We strive to have three reviewers for every submission in order to offer authors, artists and the conference committee a range of perspectives on each submission. Reviewers offer their assessment of the submission on the basis of its quality and potential contribution to the NIME community.
 
+## Other resources on reviewing
+
+- [Ken Hinckly - On Excellence in Reviews and Meta Reviews and Championing Submitted Work That Has Merit](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Excellence-in-Reviews-MobileHCI-2015-Web-Site.pdf)
+- [Unofficial Guide to Reviewing for SIGCHI](https://docs.google.com/document/d/1MpH3zV8WFU5avQHqrVTtxu-wNWzeTstxWy7K__HK5Nc/edit?tab=t.0#heading=h.mq8hia60enm8)
+
+
 
 ## Authors and Acknowledgements
 
