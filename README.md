@@ -20,6 +20,14 @@ Every reviewer is important, because it’s through a plurality of voices, persp
 
 We strive to have three reviewers for every submission in order to offer authors, artists and the conference committee a range of perspectives on each submission. Reviewers offer their assessment of the submission on the basis of its quality and potential contribution to the NIME community.
 
+## Reviewers and Meta-Reviewers
+
+There are two types of reviewers at NIME: Reviewers, and meta-reviewers, both of which are equally vital to the quality of the NIME proceedings. 
+
+**Reviewers** are peers within the NIME community who assess submissions on the basis of quality. In general, all NIME submissions are assigned three reviewers to gather a range of perspectives. Reviewers generally have experience presenting or publishing in the NIME conference or related scholarly venues or events and have experiences (e.g., completing graduate studies) that objectively qualify them in peer evaluation.
+
+**Meta-reviewers** are experienced NIME scholars and artists with considerable domain knowledge and reviewing experience. Meta-reviewers consider the reviewers' perspectives and their own assessment of a submission to _make an acceptance recommendation to the track chairs_. Meta-reviewers do not simply _average_ reviewers' scores but can engage the reviewers in discussion as well as contribute their own perspective to either reach a consensus, or articulate different review perspectives and ensure that feedback to authors is appropriate.
+
 ## Other resources on reviewing
 
 - [Ken Hinckly - On Excellence in Reviews and Meta Reviews and Championing Submitted Work That Has Merit](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Excellence-in-Reviews-MobileHCI-2015-Web-Site.pdf)

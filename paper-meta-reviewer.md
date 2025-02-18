@@ -2,13 +2,9 @@
 
 Thank you for agreeing to be a meta-reviewer for NIME 2025 ! This guide is to make the meta-reviewing process less time consuming. If you still have questions, please contact the paper chairs, Doga Buse Cavdir (dogc@itu.dk) or Florent Berthaut (florent.berthaut@univ-lille.fr)
 
-## Reviewers vs Meta-Reviewers
+## Who are meta-reviewers?
 
-There are two types of reviewers at NIME: Reviewers, and meta-reviewers, both of which are equally vital to the quality of the NIME proceedings. 
-
-**Reviewers** are the lifeblood of the reviewing process. We endeavour to have three reviewers for every submission for papers and music, in order to offer authors as much feedback as possible, and to represent a range of perspectives. Reviewers offer their assessment of the submission on the basis of its quality (more on what that means later). 
-
-**Meta-reviewers** are the final stage of the review process. Meta-reviewers are experienced NIME scholars and artists who have considerable domain knowledge. Their role is to read their assigned submissions and then offer a meta-review which carefully considers the perspectives of the reviewers, and *make a recommendation to the Chairs* as to whether a submission should be included in the proceedings. A meta-reviewer is not expected to simply *average* reviewers’ scores. Rather, they should leverage the authority they have been given due to their expertise to recommend a score that might disagree with reviewers. If that was the case, the Paper Chairs will nominate a second meta-reviewer to provide feedback. 
+**Meta-reviewers** are experienced NIME scholars and artists with considerable domain knowledge and reviewing experience. Meta-reviewers consider the reviewers' perspectives and their own assessment of a submission to _make an acceptance recommendation to the track chairs_. Meta-reviewers do not simply _average_ reviewers' scores but can engage the reviewers in discussion as well as contribute their own perspective to either reach a consensus, or articulate the differing review perspectives and ensure that feedback to authors is appropriate.
 
 ## A useful perspective for NIME reviews
 
